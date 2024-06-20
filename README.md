@@ -10,3 +10,5 @@
 [![DuckBat's GitHub stats](https://github-readme-stats.vercel.app/api?username=duckbat&show_icons=true&theme=dracula&rank_icon=github)](https://github.com/duckbat?tab=repositories)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=duckbat&layout=compact&theme=dracula)
+
+![](https://komarev.com/ghpvc/?username=duckbat)
