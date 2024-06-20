@@ -1,6 +1,9 @@
 ## 🫱🏻‍🫲🏿 Connect with me
 
-<a href="https://www.linkedin.com/in/dangchan/"><img src="/icons/LinkedIn_icon.svg.png" width="350" title="hover text" ></a>
+<a href="https://www.linkedin.com/in/dangchan/">
+    <img src="/icons/LinkedIn_icon.svg.png" style="width: 50px; height: 50px;" title="linkedin" >
+</a>
+
 
 ## 📈 My statistics
 
