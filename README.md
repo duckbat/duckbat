@@ -1,6 +1,5 @@
-## ;D
 <img src="/images/DuckBat GitHub banner.png" title="banner">
-
+# Hello ;D
 
 ## 🫱🏻‍🫲🏿 Connect with me
 
