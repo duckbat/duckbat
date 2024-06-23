@@ -1,3 +1,7 @@
+## ;D
+<img src="/images/DuckBat GitHub banner.png" title="banner">
+
+
 ## 🫱🏻‍🫲🏿 Connect with me
 
 <a href="https://www.linkedin.com/in/dangchan/">
