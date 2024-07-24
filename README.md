@@ -13,6 +13,6 @@
 
 [![DuckBat's GitHub stats](https://github-readme-stats.vercel.app/api?username=duckbat&show_icons=true&theme=transparent&rank_icon=github)](https://github.com/duckbat?tab=repositories)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=duckbat&layout=pie&theme=transparent)](https://github.com/duckbat?tab=repositories)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=duckbat&layout=donut-vertical)](https://github.com/duckbat?tab=repositories)
 
 ![](https://komarev.com/ghpvc/?username=duckbat)
