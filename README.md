@@ -1,6 +1,7 @@
 <img src="/images/DuckBat GitHub banner.png" title="banner">
 🪿
 
+<hr>
 <a href="https://www.linkedin.com/in/dangchan/">
     <img src="/icons/LinkedIn_icon.svg.png" style="width: 50px; height: 50px;" title="linkedin" >
 </a>
