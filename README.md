@@ -4,10 +4,10 @@
 <p align="center">I'm a Bachelor of ICT at the Metropolia University of Applied Science.</p>
 
 <p align="center">
-  <a href="mailto:khai.chan@outlook.com">Email</a>
+  <!-- <a href="mailto:khai.chan@outlook.com">Email</a>
    | 
   <a href="?">Website</a>
-   | 
+   | -->
   <a href="https://www.linkedin.com/in/dangchan/">
     <img src="/icons/LinkedIn_icon.svg.png" style="width: 50px; height: 50px;" title="linkedin" >
 </a>
