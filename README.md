@@ -1,5 +1,5 @@
 <img src="/images/DuckBat GitHub banner.png" title="banner">
-<p align="center"> Hello, my name is Khai! </p>
+<h1 align="center"> Hello, my name is Khai! </h1>
 
 <p align="center">I'm a Bachelor of ICT at the Metropolia University of Applied Science.</p>
 
@@ -8,13 +8,12 @@
    | 
   <a href="?">Website</a>
    | 
-  <a href="https://www.linkedin.com/in/dangchan/">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/dangchan/">
+    <img src="/icons/LinkedIn_icon.svg.png" style="width: 50px; height: 50px;" title="linkedin" >
+</a>
 </p>
 
 <hr>
-<a href="https://www.linkedin.com/in/dangchan/">
-    <img src="/icons/LinkedIn_icon.svg.png" style="width: 50px; height: 50px;" title="linkedin" >
-</a>
 
 
 ## 📈 My statistics
