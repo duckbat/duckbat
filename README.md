@@ -1,5 +1,15 @@
 <img src="/images/DuckBat GitHub banner.png" title="banner">
-🪿🦇
+<p align="center"> Hello, my name is Khai! </p>
+
+<p align="center">I'm a Bachelor of ICT at the Metropolia University of Applied Science.</p>
+
+<p align="center">
+  <a href="mailto:khai.chan@outlook.com">Email</a>
+   | 
+  <a href="?">Website</a>
+   | 
+  <a href="https://www.linkedin.com/in/dangchan/">LinkedIn</a>
+</p>
 
 <hr>
 <a href="https://www.linkedin.com/in/dangchan/">
