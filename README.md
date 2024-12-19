@@ -18,8 +18,9 @@
 
 ## 📈 My statistics
 
+![duckbat's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=duckbat&theme=react-dark&hide_border=true)
 [![DuckBat's GitHub stats](https://github-readme-stats.vercel.app/api?username=duckbat&show_icons=true&theme=transparent&rank_icon=github)](https://github.com/duckbat?tab=repositories)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=duckbat&layout=donut&theme=transparent)](https://github.com/duckbat?tab=repositories)
-![duckbat's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=duckbat&theme=react-dark&hide_border=true)
+
 
 ![](https://komarev.com/ghpvc/?username=duckbat)
